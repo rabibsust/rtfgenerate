@@ -1,0 +1,7 @@
+{
+    "name": "rabib/rtfgenerator",
+    "description": "This uses simplertf https://github.com/phprtflite/PHPRtfLite and create rtf documents with laravel",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {}
+}
